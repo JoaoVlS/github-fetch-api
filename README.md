@@ -11,7 +11,7 @@ Some of the information requested from the GitHub API includes:
 ## Page View
 <img src="src/assets/image/github-page-view.png" alt="github page"> <br>
  
- -  Link to open: <a href="" target="_blank">click-here</a>
+ -  Link to open: <a href="https://github-searching-user.netlify.app/" target="_blank">click-here</a>
 
  ## What I unlocked
  In this project, I had the opportunity to improve my skills with module import and export, use only the necessary data from the API and validate it, utilize string interpolation, and create objects. The organization of folders and files was also one of the key areas of improvement that this project brought me.
